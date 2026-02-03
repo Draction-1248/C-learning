@@ -1,6 +1,4 @@
 ﻿//求两数之和
-
-
 #include<iostream>
 using namespace std;
 int main()
